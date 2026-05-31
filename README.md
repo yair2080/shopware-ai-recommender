@@ -1,0 +1,1 @@
+# shopware-ai-recommender
